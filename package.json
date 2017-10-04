@@ -1,0 +1,29 @@
+{
+  "name": "testheroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariagiraldo/testheroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariagiraldo/testheroku/issues"
+  },
+  "homepage": "https://github.com/mariagiraldo/testheroku#readme",
+  "devDependencies": {
+    "scripts": {
+      "start": "node index.js"
+    },
+    "webpack": "^3.6.0"
+  },
+  "engines": {
+    "node": "6.9.4"
+  }
+}
